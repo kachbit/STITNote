@@ -53,4 +53,9 @@ function stitparse(tabString) {
 }
 ```
 
+## Timeline
+
+### 12/20/23
+- created the first algorithm to parse files after days of prompting
+
 will incorperate [ENFON](https://github.com/kachbit/ENFON) support
