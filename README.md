@@ -23,7 +23,7 @@ File // this is the root node. there is no metadata
 
 ```
 <br>
-parsing algorithm v1:
+parsing algorithm v1 (doesn't support metadata):
 
 ```javascript
 function stitparse(tabString) {
